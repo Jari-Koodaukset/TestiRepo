@@ -1,4 +1,4 @@
 # TestiRepo
 
-## Testaile Gitiä
+## Testailen Gitiä
 Ja GitHubia
